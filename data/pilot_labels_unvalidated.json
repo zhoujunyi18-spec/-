@@ -1,0 +1,2184 @@
+[
+  {
+    "sample_id": "P001",
+    "appid": 2161700,
+    "recommendationid": "194739985",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "N": "positive",
+      "U": "negative",
+      "B": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P002",
+    "appid": 2161700,
+    "recommendationid": "227775792",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "N": "negative",
+      "E": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P003",
+    "appid": 2161700,
+    "recommendationid": "227833095",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "E": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P004",
+    "appid": 2161700,
+    "recommendationid": "214997136",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P005",
+    "appid": 2161700,
+    "recommendationid": "159681475",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive",
+      "A": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P006",
+    "appid": 2161700,
+    "recommendationid": "197796817",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "B": "negative",
+      "U": "negative",
+      "N": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P007",
+    "appid": 2161700,
+    "recommendationid": "157462249",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P008",
+    "appid": 2161700,
+    "recommendationid": "233773992",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "B": "positive",
+      "N": "mixed",
+      "E": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P009",
+    "appid": 2161700,
+    "recommendationid": "161957259",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P010",
+    "appid": 2161700,
+    "recommendationid": "223396930",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "T": "negative",
+      "B": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P011",
+    "appid": 2161700,
+    "recommendationid": "157683558",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P012",
+    "appid": 2161700,
+    "recommendationid": "157542521",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P013",
+    "appid": 2161700,
+    "recommendationid": "157550987",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "U": "positive",
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P014",
+    "appid": 2161700,
+    "recommendationid": "202556980",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P015",
+    "appid": 2161700,
+    "recommendationid": "224038933",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P016",
+    "appid": 2161700,
+    "recommendationid": "206189537",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P017",
+    "appid": 2161700,
+    "recommendationid": "176225288",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive",
+      "B": "positive",
+      "U": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P018",
+    "appid": 2161700,
+    "recommendationid": "209602070",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "positive",
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P019",
+    "appid": 2161700,
+    "recommendationid": "165945666",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P020",
+    "appid": 2161700,
+    "recommendationid": "206062672",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "B": "positive",
+      "U": "positive",
+      "N": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "B",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "multiple:PS2/PSP",
+        "relation": "addition"
+      },
+      {
+        "aspect": "U",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "multiple:PS2/PSP",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P021",
+    "appid": 2161700,
+    "recommendationid": "222423043",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P022",
+    "appid": 2161700,
+    "recommendationid": "158133156",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P023",
+    "appid": 2161700,
+    "recommendationid": "238014166",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "N": "mixed",
+      "B": "mixed"
+    },
+    "comparisons": [
+      {
+        "aspect": "N",
+        "relative_direction": "no_change",
+        "comparison_valence": "unevaluated",
+        "reference_version": "unspecified",
+        "relation": "retention"
+      }
+    ]
+  },
+  {
+    "sample_id": "P024",
+    "appid": 2161700,
+    "recommendationid": "196147259",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P025",
+    "appid": 2161700,
+    "recommendationid": "157391615",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P026",
+    "appid": 2161700,
+    "recommendationid": "168553422",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P027",
+    "appid": 2161700,
+    "recommendationid": "157620899",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "U": "negative",
+      "B": "negative",
+      "E": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P028",
+    "appid": 2161700,
+    "recommendationid": "157769135",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": [
+      {
+        "aspect": "E",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "original:無印",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P029",
+    "appid": 2161700,
+    "recommendationid": "200136521",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "T": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P030",
+    "appid": 2161700,
+    "recommendationid": "183165448",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "mixed",
+      "B": "negative",
+      "E": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P031",
+    "appid": 2238900,
+    "recommendationid": "238082630",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "B": "mixed",
+      "O": "negative"
+    },
+    "comparisons": [
+      {
+        "aspect": "B",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      },
+      {
+        "aspect": "U",
+        "relative_direction": "no_change",
+        "comparison_valence": "unevaluated",
+        "reference_version": "PS",
+        "relation": "retention"
+      }
+    ]
+  },
+  {
+    "sample_id": "P032",
+    "appid": 2238900,
+    "recommendationid": "149576760",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "A": "mixed",
+      "B": "negative",
+      "U": "mixed",
+      "E": "positive",
+      "T": "negative",
+      "N": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "A",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "PS",
+        "relation": "change"
+      },
+      {
+        "aspect": "B",
+        "relative_direction": "negative",
+        "comparison_valence": "negative",
+        "reference_version": "PS",
+        "relation": "change"
+      },
+      {
+        "aspect": "U",
+        "relative_direction": "negative",
+        "comparison_valence": "negative",
+        "reference_version": "PS",
+        "relation": "change"
+      },
+      {
+        "aspect": "U",
+        "relative_direction": "no_change",
+        "comparison_valence": "unevaluated",
+        "reference_version": "PS",
+        "relation": "retention"
+      },
+      {
+        "aspect": "E",
+        "relative_direction": "unevaluated",
+        "comparison_valence": "unevaluated",
+        "reference_version": "PS",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P033",
+    "appid": 2238900,
+    "recommendationid": "149477802",
+    "recommended": true,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P034",
+    "appid": 2238900,
+    "recommendationid": "169541752",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "A": "positive",
+      "B": "mixed",
+      "E": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P035",
+    "appid": 2238900,
+    "recommendationid": "149639871",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "E": "positive",
+      "U": "positive",
+      "B": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "E",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      },
+      {
+        "aspect": "U",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      },
+      {
+        "aspect": "B",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      }
+    ]
+  },
+  {
+    "sample_id": "P036",
+    "appid": 2238900,
+    "recommendationid": "149586060",
+    "recommended": false,
+    "main_case": false,
+    "current": {
+      "T": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P037",
+    "appid": 2238900,
+    "recommendationid": "217087605",
+    "recommended": false,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P038",
+    "appid": 2238900,
+    "recommendationid": "150418091",
+    "recommended": true,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P039",
+    "appid": 2238900,
+    "recommendationid": "150873705",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "E": "positive",
+      "U": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "E",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "multiple:PS/PSP",
+        "relation": "change"
+      },
+      {
+        "aspect": "U",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "multiple:PS/PSP",
+        "relation": "addition"
+      },
+      {
+        "aspect": "B",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "multiple:PS/PSP",
+        "relation": "change"
+      },
+      {
+        "aspect": "E",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "multiple:PS/PSP",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P040",
+    "appid": 2238900,
+    "recommendationid": "176201229",
+    "recommended": false,
+    "main_case": false,
+    "current": {
+      "O": "negative",
+      "B": "negative",
+      "N": "negative",
+      "E": "positive",
+      "U": "negative",
+      "A": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P041",
+    "appid": 2238900,
+    "recommendationid": "151451175",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "A": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P042",
+    "appid": 2238900,
+    "recommendationid": "149567091",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "A": "mixed"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P043",
+    "appid": 2238900,
+    "recommendationid": "202579457",
+    "recommended": true,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P044",
+    "appid": 2238900,
+    "recommendationid": "149862268",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "N": "mixed"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P045",
+    "appid": 2238900,
+    "recommendationid": "230972796",
+    "recommended": false,
+    "main_case": false,
+    "current": {
+      "N": "negative",
+      "B": "negative",
+      "A": "positive",
+      "U": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P046",
+    "appid": 2238900,
+    "recommendationid": "149775554",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "E": "positive",
+      "U": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "E",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      },
+      {
+        "aspect": "U",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      }
+    ]
+  },
+  {
+    "sample_id": "P047",
+    "appid": 2238900,
+    "recommendationid": "194740990",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "B": "negative",
+      "N": "negative"
+    },
+    "comparisons": [
+      {
+        "aspect": "B",
+        "relative_direction": "no_change",
+        "comparison_valence": "unevaluated",
+        "reference_version": "unspecified",
+        "relation": "retention"
+      }
+    ]
+  },
+  {
+    "sample_id": "P048",
+    "appid": 2238900,
+    "recommendationid": "149991468",
+    "recommended": true,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P049",
+    "appid": 2238900,
+    "recommendationid": "176688065",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "B": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P050",
+    "appid": 2238900,
+    "recommendationid": "149616474",
+    "recommended": true,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P051",
+    "appid": 2238900,
+    "recommendationid": "205241158",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "N": "positive",
+      "B": "positive",
+      "A": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "N",
+        "relative_direction": "no_change",
+        "comparison_valence": "positive",
+        "reference_version": "multiple:PS/PSP",
+        "relation": "retention"
+      },
+      {
+        "aspect": "E",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "multiple:PS/PSP",
+        "relation": "addition"
+      },
+      {
+        "aspect": "A",
+        "relative_direction": "unevaluated",
+        "comparison_valence": "unevaluated",
+        "reference_version": "PS",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P052",
+    "appid": 2238900,
+    "recommendationid": "150279350",
+    "recommended": true,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P053",
+    "appid": 2238900,
+    "recommendationid": "149746362",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "B": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P054",
+    "appid": 2238900,
+    "recommendationid": "149510172",
+    "recommended": true,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P055",
+    "appid": 2238900,
+    "recommendationid": "155265617",
+    "recommended": true,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P056",
+    "appid": 2238900,
+    "recommendationid": "178387834",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "A": "positive",
+      "B": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "B",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "PS",
+        "relation": "addition"
+      },
+      {
+        "aspect": "A",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "PS",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P057",
+    "appid": 2238900,
+    "recommendationid": "149639912",
+    "recommended": true,
+    "main_case": false,
+    "current": {
+      "A": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "A",
+        "relative_direction": "no_change",
+        "comparison_valence": "unevaluated",
+        "reference_version": "unspecified",
+        "relation": "retention"
+      }
+    ]
+  },
+  {
+    "sample_id": "P058",
+    "appid": 2238900,
+    "recommendationid": "149574589",
+    "recommended": true,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P059",
+    "appid": 2238900,
+    "recommendationid": "172106801",
+    "recommended": true,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P060",
+    "appid": 2238900,
+    "recommendationid": "149868765",
+    "recommended": true,
+    "main_case": false,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P061",
+    "appid": 2455640,
+    "recommendationid": "179117957",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P062",
+    "appid": 2455640,
+    "recommendationid": "177820720",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "T": "positive",
+      "B": "mixed"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P063",
+    "appid": 2455640,
+    "recommendationid": "231302499",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "U": "negative",
+      "B": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P064",
+    "appid": 2455640,
+    "recommendationid": "178322749",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "positive",
+      "U": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P065",
+    "appid": 2455640,
+    "recommendationid": "179240009",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "O": "positive",
+      "A": "positive",
+      "T": "positive",
+      "E": "positive",
+      "U": "mixed",
+      "N": "negative"
+    },
+    "comparisons": [
+      {
+        "aspect": "A",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      },
+      {
+        "aspect": "A",
+        "relative_direction": "no_change",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "retention"
+      }
+    ]
+  },
+  {
+    "sample_id": "P066",
+    "appid": 2455640,
+    "recommendationid": "180415779",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P067",
+    "appid": 2455640,
+    "recommendationid": "178553051",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P068",
+    "appid": 2455640,
+    "recommendationid": "179205418",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "U": "positive",
+      "B": "positive",
+      "A": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "U",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      },
+      {
+        "aspect": "N",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      },
+      {
+        "aspect": "B",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      },
+      {
+        "aspect": "A",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P069",
+    "appid": 2455640,
+    "recommendationid": "181241765",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P070",
+    "appid": 2455640,
+    "recommendationid": "187078089",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P071",
+    "appid": 2455640,
+    "recommendationid": "179223796",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "U": "negative"
+    },
+    "comparisons": [
+      {
+        "aspect": "A",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      },
+      {
+        "aspect": "B",
+        "relative_direction": "unevaluated",
+        "comparison_valence": "unevaluated",
+        "reference_version": "unspecified",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P072",
+    "appid": 2455640,
+    "recommendationid": "179364713",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "positive",
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P073",
+    "appid": 2455640,
+    "recommendationid": "178151577",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P074",
+    "appid": 2455640,
+    "recommendationid": "181661033",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P075",
+    "appid": 2455640,
+    "recommendationid": "177834179",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P076",
+    "appid": 2455640,
+    "recommendationid": "183339045",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "mixed",
+      "A": "mixed"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P077",
+    "appid": 2455640,
+    "recommendationid": "179552662",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "mixed",
+      "A": "positive",
+      "N": "negative"
+    },
+    "comparisons": [
+      {
+        "aspect": "B",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "SFC",
+        "relation": "addition"
+      },
+      {
+        "aspect": "N",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "SFC",
+        "relation": "addition"
+      }
+    ]
+  },
+  {
+    "sample_id": "P078",
+    "appid": 2455640,
+    "recommendationid": "236665732",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "T": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P079",
+    "appid": 2455640,
+    "recommendationid": "186823162",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "positive",
+      "A": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P080",
+    "appid": 2455640,
+    "recommendationid": "208192791",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "A",
+        "relative_direction": "no_change",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "retention"
+      }
+    ]
+  },
+  {
+    "sample_id": "P081",
+    "appid": 2455640,
+    "recommendationid": "184195528",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "E": "negative",
+      "N": "mixed"
+    },
+    "comparisons": [
+      {
+        "aspect": "E",
+        "relative_direction": "negative",
+        "comparison_valence": "negative",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      }
+    ]
+  },
+  {
+    "sample_id": "P082",
+    "appid": 2455640,
+    "recommendationid": "206495526",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P083",
+    "appid": 2455640,
+    "recommendationid": "177843799",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "U": "mixed",
+      "T": "positive",
+      "B": "positive",
+      "A": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "U",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      },
+      {
+        "aspect": "A",
+        "relative_direction": "no_change",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "retention"
+      }
+    ]
+  },
+  {
+    "sample_id": "P084",
+    "appid": 2455640,
+    "recommendationid": "177770390",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P085",
+    "appid": 2455640,
+    "recommendationid": "223975977",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P086",
+    "appid": 2455640,
+    "recommendationid": "183738153",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P087",
+    "appid": 2455640,
+    "recommendationid": "193320063",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P088",
+    "appid": 2455640,
+    "recommendationid": "178613607",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P089",
+    "appid": 2455640,
+    "recommendationid": "178293522",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P090",
+    "appid": 2455640,
+    "recommendationid": "198514959",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "negative",
+      "A": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P091",
+    "appid": 2701660,
+    "recommendationid": "179430469",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "B": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P092",
+    "appid": 2701660,
+    "recommendationid": "179634542",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P093",
+    "appid": 2701660,
+    "recommendationid": "179596010",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive",
+      "O": "negative"
+    },
+    "comparisons": [
+      {
+        "aspect": "N",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      }
+    ]
+  },
+  {
+    "sample_id": "P094",
+    "appid": 2701660,
+    "recommendationid": "179646287",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P095",
+    "appid": 2701660,
+    "recommendationid": "184422872",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "B": "negative",
+      "O": "negative"
+    },
+    "comparisons": [
+      {
+        "aspect": "B",
+        "relative_direction": "negative",
+        "comparison_valence": "negative",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      }
+    ]
+  },
+  {
+    "sample_id": "P096",
+    "appid": 2701660,
+    "recommendationid": "183038748",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "T": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P097",
+    "appid": 2701660,
+    "recommendationid": "179420706",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "B": "negative",
+      "E": "negative",
+      "N": "mixed",
+      "A": "negative",
+      "U": "negative",
+      "O": "negative"
+    },
+    "comparisons": [
+      {
+        "aspect": "B",
+        "relative_direction": "negative",
+        "comparison_valence": "negative",
+        "reference_version": "multiple:FC/SFC/その他旧版",
+        "relation": "change"
+      },
+      {
+        "aspect": "N",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      }
+    ]
+  },
+  {
+    "sample_id": "P098",
+    "appid": 2701660,
+    "recommendationid": "181262716",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "E": "positive",
+      "B": "negative"
+    },
+    "comparisons": [
+      {
+        "aspect": "A",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "SFC",
+        "relation": "change"
+      },
+      {
+        "aspect": "E",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "SFC",
+        "relation": "change"
+      },
+      {
+        "aspect": "B",
+        "relative_direction": "unevaluated",
+        "comparison_valence": "unevaluated",
+        "reference_version": "SFC",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P099",
+    "appid": 2701660,
+    "recommendationid": "179361834",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "B": "negative",
+      "A": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P100",
+    "appid": 2701660,
+    "recommendationid": "181668493",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P101",
+    "appid": 2701660,
+    "recommendationid": "235960091",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "B": "negative",
+      "E": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P102",
+    "appid": 2701660,
+    "recommendationid": "179234485",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "A",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "multiple:FC/SFC",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P103",
+    "appid": 2701660,
+    "recommendationid": "181296121",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P104",
+    "appid": 2701660,
+    "recommendationid": "179239722",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "T": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P105",
+    "appid": 2701660,
+    "recommendationid": "205659350",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "E": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P106",
+    "appid": 2701660,
+    "recommendationid": "225865733",
+    "recommended": false,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P107",
+    "appid": 2701660,
+    "recommendationid": "180997619",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "B": "negative",
+      "U": "negative",
+      "A": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "B",
+        "relative_direction": "negative",
+        "comparison_valence": "negative",
+        "reference_version": "multiple:原作/SFC",
+        "relation": "change"
+      },
+      {
+        "aspect": "A",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      }
+    ]
+  },
+  {
+    "sample_id": "P108",
+    "appid": 2701660,
+    "recommendationid": "179731181",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "O": "negative",
+      "A": "negative",
+      "B": "negative",
+      "U": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P109",
+    "appid": 2701660,
+    "recommendationid": "179303928",
+    "recommended": false,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P110",
+    "appid": 2701660,
+    "recommendationid": "213219473",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "O": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P111",
+    "appid": 2701660,
+    "recommendationid": "182259850",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P112",
+    "appid": 2701660,
+    "recommendationid": "179207607",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "U": "negative",
+      "E": "negative"
+    },
+    "comparisons": [
+      {
+        "aspect": "U",
+        "relative_direction": "no_change",
+        "comparison_valence": "negative",
+        "reference_version": "unspecified",
+        "relation": "retention"
+      },
+      {
+        "aspect": "E",
+        "relative_direction": "no_change",
+        "comparison_valence": "negative",
+        "reference_version": "unspecified",
+        "relation": "retention"
+      }
+    ]
+  },
+  {
+    "sample_id": "P113",
+    "appid": 2701660,
+    "recommendationid": "211848447",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "U": "positive",
+      "E": "positive",
+      "B": "mixed"
+    },
+    "comparisons": [
+      {
+        "aspect": "B",
+        "relative_direction": "unevaluated",
+        "comparison_valence": "unevaluated",
+        "reference_version": "unspecified",
+        "relation": "change"
+      },
+      {
+        "aspect": "E",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P114",
+    "appid": 2701660,
+    "recommendationid": "184272932",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "B": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P115",
+    "appid": 2701660,
+    "recommendationid": "179138340",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P116",
+    "appid": 2701660,
+    "recommendationid": "180340743",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": [
+      {
+        "aspect": "B",
+        "relative_direction": "unevaluated",
+        "comparison_valence": "unevaluated",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      }
+    ]
+  },
+  {
+    "sample_id": "P117",
+    "appid": 2701660,
+    "recommendationid": "179440496",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "U": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P118",
+    "appid": 2701660,
+    "recommendationid": "179466632",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "U": "positive",
+      "E": "positive",
+      "B": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "U",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      },
+      {
+        "aspect": "E",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      },
+      {
+        "aspect": "B",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "addition"
+      }
+    ]
+  },
+  {
+    "sample_id": "P119",
+    "appid": 2701660,
+    "recommendationid": "181159235",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P120",
+    "appid": 2701660,
+    "recommendationid": "179488367",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "negative",
+      "O": "negative",
+      "U": "negative",
+      "A": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P121",
+    "appid": 3375780,
+    "recommendationid": "236038378",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "positive",
+      "N": "mixed",
+      "U": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P122",
+    "appid": 3375780,
+    "recommendationid": "205238372",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive",
+      "A": "mixed"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P123",
+    "appid": 3375780,
+    "recommendationid": "232240012",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive",
+      "B": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P124",
+    "appid": 3375780,
+    "recommendationid": "237384161",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P125",
+    "appid": 3375780,
+    "recommendationid": "206305743",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P126",
+    "appid": 3375780,
+    "recommendationid": "236243877",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive",
+      "E": "positive",
+      "U": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P127",
+    "appid": 3375780,
+    "recommendationid": "208445703",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive",
+      "B": "positive",
+      "A": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P128",
+    "appid": 3375780,
+    "recommendationid": "206475165",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P129",
+    "appid": 3375780,
+    "recommendationid": "212346405",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P130",
+    "appid": 3375780,
+    "recommendationid": "214911453",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P131",
+    "appid": 3375780,
+    "recommendationid": "205578283",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "T": "positive",
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P132",
+    "appid": 3375780,
+    "recommendationid": "204780825",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "T": "negative",
+      "B": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P133",
+    "appid": 3375780,
+    "recommendationid": "205329331",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "E": "positive",
+      "U": "mixed",
+      "B": "positive",
+      "N": "positive",
+      "A": "mixed"
+    },
+    "comparisons": [
+      {
+        "aspect": "E",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "FC:platform_unspecified",
+        "relation": "addition"
+      },
+      {
+        "aspect": "U",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "FC:platform_unspecified",
+        "relation": "addition"
+      },
+      {
+        "aspect": "B",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "FC:platform_unspecified",
+        "relation": "addition"
+      },
+      {
+        "aspect": "A",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "FC:platform_unspecified",
+        "relation": "change"
+      }
+    ]
+  },
+  {
+    "sample_id": "P134",
+    "appid": 3375780,
+    "recommendationid": "207109297",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P135",
+    "appid": 3375780,
+    "recommendationid": "232121303",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "positive",
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P136",
+    "appid": 3375780,
+    "recommendationid": "204856495",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive",
+      "B": "positive",
+      "E": "positive",
+      "U": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P137",
+    "appid": 3375780,
+    "recommendationid": "212298405",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "T": "positive",
+      "A": "positive",
+      "E": "positive",
+      "N": "positive",
+      "B": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P138",
+    "appid": 3375780,
+    "recommendationid": "231488465",
+    "recommended": false,
+    "main_case": true,
+    "current": {
+      "N": "negative",
+      "A": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P139",
+    "appid": 3375780,
+    "recommendationid": "206629285",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P140",
+    "appid": 3375780,
+    "recommendationid": "206620178",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P141",
+    "appid": 3375780,
+    "recommendationid": "217554230",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "O": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P142",
+    "appid": 3375780,
+    "recommendationid": "204861552",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "T": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P143",
+    "appid": 3375780,
+    "recommendationid": "205209910",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P144",
+    "appid": 3375780,
+    "recommendationid": "209464779",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "U": "positive",
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P145",
+    "appid": 3375780,
+    "recommendationid": "216212134",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "mixed",
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P146",
+    "appid": 3375780,
+    "recommendationid": "208398048",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "B": "positive",
+      "E": "positive",
+      "N": "positive",
+      "A": "positive"
+    },
+    "comparisons": [
+      {
+        "aspect": "B",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      },
+      {
+        "aspect": "E",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      },
+      {
+        "aspect": "A",
+        "relative_direction": "positive",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "change"
+      },
+      {
+        "aspect": "N",
+        "relative_direction": "no_change",
+        "comparison_valence": "positive",
+        "reference_version": "unspecified",
+        "relation": "retention"
+      }
+    ]
+  },
+  {
+    "sample_id": "P147",
+    "appid": 3375780,
+    "recommendationid": "216251479",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "A": "positive",
+      "N": "positive"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P148",
+    "appid": 3375780,
+    "recommendationid": "206528525",
+    "recommended": true,
+    "main_case": true,
+    "current": {},
+    "comparisons": []
+  },
+  {
+    "sample_id": "P149",
+    "appid": 3375780,
+    "recommendationid": "225180135",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "N": "positive",
+      "B": "positive",
+      "E": "positive",
+      "U": "positive",
+      "O": "negative"
+    },
+    "comparisons": []
+  },
+  {
+    "sample_id": "P150",
+    "appid": 3375780,
+    "recommendationid": "205007686",
+    "recommended": true,
+    "main_case": true,
+    "current": {
+      "U": "positive",
+      "E": "positive"
+    },
+    "comparisons": []
+  }
+]

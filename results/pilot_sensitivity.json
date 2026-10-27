@@ -1,0 +1,26 @@
+[
+  {
+    "appid": 2161700,
+    "n": 30,
+    "baseline_comparison_reviews": 3,
+    "conservative_comparison_reviews": 3
+  },
+  {
+    "appid": 2455640,
+    "n": 30,
+    "baseline_comparison_reviews": 7,
+    "conservative_comparison_reviews": 7
+  },
+  {
+    "appid": 2701660,
+    "n": 30,
+    "baseline_comparison_reviews": 10,
+    "conservative_comparison_reviews": 6
+  },
+  {
+    "appid": 3375780,
+    "n": 30,
+    "baseline_comparison_reviews": 2,
+    "conservative_comparison_reviews": 1
+  }
+]

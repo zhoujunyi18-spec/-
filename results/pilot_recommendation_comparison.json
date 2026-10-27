@@ -1,0 +1,98 @@
+[
+  {
+    "appid": 2161700,
+    "recommended": true,
+    "n": 26,
+    "comparison_reviews": 3,
+    "proportion": 0.11538461538461539,
+    "wilson95": [
+      0.04003244623610615,
+      0.2897590321171364
+    ],
+    "median_characters": 79.0
+  },
+  {
+    "appid": 2161700,
+    "recommended": false,
+    "n": 4,
+    "comparison_reviews": 0,
+    "proportion": 0.0,
+    "wilson95": [
+      0,
+      0.4898908364545973
+    ],
+    "median_characters": 271.0
+  },
+  {
+    "appid": 2455640,
+    "recommended": true,
+    "n": 29,
+    "comparison_reviews": 7,
+    "proportion": 0.2413793103448276,
+    "wilson95": [
+      0.12218422442520088,
+      0.42107601617811335
+    ],
+    "median_characters": 150
+  },
+  {
+    "appid": 2455640,
+    "recommended": false,
+    "n": 1,
+    "comparison_reviews": 0,
+    "proportion": 0.0,
+    "wilson95": [
+      0,
+      0.7934506856227626
+    ],
+    "median_characters": 131
+  },
+  {
+    "appid": 2701660,
+    "recommended": true,
+    "n": 15,
+    "comparison_reviews": 6,
+    "proportion": 0.4,
+    "wilson95": [
+      0.1982449614134158,
+      0.6425316987937539
+    ],
+    "median_characters": 101
+  },
+  {
+    "appid": 2701660,
+    "recommended": false,
+    "n": 15,
+    "comparison_reviews": 4,
+    "proportion": 0.26666666666666666,
+    "wilson95": [
+      0.10897453325692374,
+      0.5195043405598057
+    ],
+    "median_characters": 112
+  },
+  {
+    "appid": 3375780,
+    "recommended": true,
+    "n": 28,
+    "comparison_reviews": 2,
+    "proportion": 0.07142857142857142,
+    "wilson95": [
+      0.019812064115305755,
+      0.22645362568399052
+    ],
+    "median_characters": 150.0
+  },
+  {
+    "appid": 3375780,
+    "recommended": false,
+    "n": 2,
+    "comparison_reviews": 0,
+    "proportion": 0.0,
+    "wilson95": [
+      0,
+      0.6576197724933469
+    ],
+    "median_characters": 291.5
+  }
+]

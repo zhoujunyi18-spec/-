@@ -1,0 +1,82 @@
+[
+  {
+    "appid": 2455640,
+    "title": "ロマンシング サガ2 リベンジオブザセブン",
+    "cutoff_unix": 1793026799,
+    "cutoff_jst": "2026-10-26T23:59:59+09:00",
+    "n": 1668,
+    "positive": 1608,
+    "negative": 60,
+    "duplicates": 0,
+    "stop": "empty_page",
+    "api_summary": {
+      "num_reviews": 100,
+      "review_score": 9,
+      "review_score_desc": "Overwhelmingly Positive",
+      "total_positive": 1608,
+      "total_negative": 60,
+      "total_reviews": 1668
+    },
+    "api_total_matching": 1668
+  },
+  {
+    "appid": 2701660,
+    "title": "ドラゴンクエストIII HD-2D Remake",
+    "cutoff_unix": 1793026799,
+    "cutoff_jst": "2026-10-26T23:59:59+09:00",
+    "n": 1635,
+    "positive": 888,
+    "negative": 747,
+    "duplicates": 0,
+    "stop": "empty_page",
+    "api_summary": {
+      "num_reviews": 100,
+      "review_score": 5,
+      "review_score_desc": "Mixed",
+      "total_positive": 888,
+      "total_negative": 747,
+      "total_reviews": 1635
+    },
+    "api_total_matching": 1635
+  },
+  {
+    "appid": 2161700,
+    "title": "ペルソナ3 リロード",
+    "cutoff_unix": 1793026799,
+    "cutoff_jst": "2026-10-26T23:59:59+09:00",
+    "n": 1078,
+    "positive": 990,
+    "negative": 88,
+    "duplicates": 0,
+    "stop": "empty_page",
+    "api_summary": {
+      "num_reviews": 100,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 990,
+      "total_negative": 88,
+      "total_reviews": 1078
+    },
+    "api_total_matching": 1078
+  },
+  {
+    "appid": 3375780,
+    "title": "空の軌跡 the 1st",
+    "cutoff_unix": 1793026799,
+    "cutoff_jst": "2026-10-26T23:59:59+09:00",
+    "n": 411,
+    "positive": 386,
+    "negative": 25,
+    "duplicates": 0,
+    "stop": "empty_page",
+    "api_summary": {
+      "num_reviews": 100,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 386,
+      "total_negative": 25,
+      "total_reviews": 411
+    },
+    "api_total_matching": 411
+  }
+]

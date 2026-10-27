@@ -1,0 +1,148 @@
+{
+  "appid": 2701660,
+  "title": "ドラゴンクエストIII HD-2D Remake",
+  "cutoff_unix": 1793026799,
+  "cutoff_jst": "2026-10-26T23:59:59+09:00",
+  "n": 1635,
+  "positive": 888,
+  "negative": 747,
+  "duplicates": 0,
+  "stop": "empty_page",
+  "api_summary": {
+    "num_reviews": 100,
+    "review_score": 5,
+    "review_score_desc": "Mixed",
+    "total_positive": 888,
+    "total_negative": 747,
+    "total_reviews": 1635
+  },
+  "api_total_matching": 1635,
+  "pages": [
+    {
+      "page": 0,
+      "n": 100,
+      "sha256": "2384327ec64d12f70a51e181962a99607346993f98588885f797ae676112135b",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22%2A%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T05:59:48.992797+00:00"
+    },
+    {
+      "page": 1,
+      "n": 100,
+      "sha256": "4d3ddfb1bd6102f566a64c175e11ccc6cc8b997d75f293c4dd24baf1da530a82",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJwzfem6JsDeZLxuAY%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T05:59:50.129047+00:00"
+    },
+    {
+      "page": 2,
+      "n": 100,
+      "sha256": "6b011f80d05d526852ca0b3f1fc70edd089c0e0764ee79ff776df33387d6bce6",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJ4xeWEy5kDfI%2FrjwY%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T05:59:51.418125+00:00"
+    },
+    {
+      "page": 3,
+      "n": 100,
+      "sha256": "5114213a84757fe3edd8cc4f8ef1e699a6c5ff43f92fc546eb25892e19825065",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJ4kKKh3ZYDe6Sw5gU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T05:59:52.612494+00:00"
+    },
+    {
+      "page": 4,
+      "n": 100,
+      "sha256": "f283b51c07e9e2798dc79cd2aadea4ce19a1b824297b8e20afb21e20e6f386a3",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJwj9uTlZQDcLeWwAU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T05:59:53.947206+00:00"
+    },
+    {
+      "page": 5,
+      "n": 100,
+      "sha256": "18bd1d8145b54333a085bfad2d5afcaaa1836eff32d72dc1b179e7d01c6f3cf9",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJwxq2E05MDccSZtwU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T05:59:55.361225+00:00"
+    },
+    {
+      "page": 6,
+      "n": 100,
+      "sha256": "20f25e691492aacc755a0b1bc0d20743b2c4375a517e6e54dfec477ff35a1e10",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJwp%2Bzaw5MDdY%2BvtAU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T05:59:56.633066+00:00"
+    },
+    {
+      "page": 7,
+      "n": 100,
+      "sha256": "0ec4fb866a820a4753a036b3e194082fe97c8b4b1adf5bd59d3cfd1a981b7098",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJwtsimvJMDfb3bsQU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T05:59:57.843426+00:00"
+    },
+    {
+      "page": 8,
+      "n": 100,
+      "sha256": "b1c8146d261997d85350e9a82ece81645dc5b9df5c37a6ccca0f4fc77438afe6",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJ42N%2FrtpMDdqGkrgU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T05:59:59.092068+00:00"
+    },
+    {
+      "page": 9,
+      "n": 100,
+      "sha256": "94a5ed7eda6b264baae6fa0aa8c02ed6943b04cdc7e868f155f5fdca9d2fde22",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJwhvPEr5MDecLRrQU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:00:00.272570+00:00"
+    },
+    {
+      "page": 10,
+      "n": 100,
+      "sha256": "1883981f1ca665e96722b3dec3fd4d63d533a7d58b689e74baeed15d8c0caaf7",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJwvIfuq5MDddiarQU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:00:01.348095+00:00"
+    },
+    {
+      "page": 11,
+      "n": 100,
+      "sha256": "2b6a01359853943ddffc4a53037b7f4cc1a910a6eabb9564434f878be705d8e2",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJwtP%2FFp5MDcLLgrAU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:00:02.727856+00:00"
+    },
+    {
+      "page": 12,
+      "n": 100,
+      "sha256": "324e722cb95478ef6901bcdf1ecd2f1c8dad1a920bce7d0a3961778bfd4cd39b",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJw1Z7BpJMDf8q2rAU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:00:03.916073+00:00"
+    },
+    {
+      "page": 13,
+      "n": 100,
+      "sha256": "33db7a3c0952b7e541e161e12e9706106c741ed13654888a9ac1aba3660293c9",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJ4jbecoJMDeZ2FrAU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:00:05.203457+00:00"
+    },
+    {
+      "page": 14,
+      "n": 100,
+      "sha256": "0cecf57e68cd490df45f626eabb6a78b22b92c5750dde5bb9f6fb292ce684718",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJ4q8ubnZMDcZPdqwU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:00:06.490057+00:00"
+    },
+    {
+      "page": 15,
+      "n": 100,
+      "sha256": "a2ba8da4b1e340bcba201f62d744e3bbfa67112942743a8993a67487f5ad8573",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJ41smSmpMDeuCqqwU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:00:07.714362+00:00"
+    },
+    {
+      "page": 16,
+      "n": 35,
+      "sha256": "a9f066a699995a94a3798c5b33f048c21bc74cd4de2281709561cb6a0d7eaf7a",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJ4zo74lpMDf%2Bb8qgU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:00:08.780080+00:00"
+    },
+    {
+      "page": 17,
+      "n": 0,
+      "sha256": "dcc996abfb5c42af023b798f3b16e58f623c0ad21f66c5c986cc9ecae1ef95e0",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+2701660%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJw0pnwlZMDd5zwqgU%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:00:09.751093+00:00"
+    }
+  ]
+}

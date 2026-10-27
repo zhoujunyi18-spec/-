@@ -1,0 +1,5 @@
+data/private/
+literature/fulltext/
+__pycache__/
+*.pyc
+.env

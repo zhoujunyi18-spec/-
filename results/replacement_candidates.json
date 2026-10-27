@@ -1,0 +1,98 @@
+[
+  {
+    "appid": 2499860,
+    "title": "ドラゴンクエストVII Reimagined",
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 536,
+      "total_negative": 82,
+      "total_reviews": 618
+    }
+  },
+  {
+    "appid": 3375780,
+    "title": "空の軌跡 the 1st (3375780)",
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 386,
+      "total_negative": 25,
+      "total_reviews": 411
+    }
+  },
+  {
+    "appid": 3447040,
+    "title": "空の軌跡 the 1st (3447040)",
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 0,
+      "review_score_desc": "9 user reviews",
+      "total_positive": 7,
+      "total_negative": 2,
+      "total_reviews": 9
+    }
+  },
+  {
+    "appid": 1462040,
+    "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 5,
+      "review_score_desc": "Mixed",
+      "total_positive": 446,
+      "total_negative": 223,
+      "total_reviews": 669
+    }
+  },
+  {
+    "appid": 924980,
+    "title": "聖剣伝説3 TRIALS of MANA",
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 8,
+      "review_score_desc": "Very Positive",
+      "total_positive": 553,
+      "total_negative": 58,
+      "total_reviews": 611
+    }
+  },
+  {
+    "appid": 2909400,
+    "title": "FINAL FANTASY VII REBIRTH",
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 5,
+      "review_score_desc": "Mixed",
+      "total_positive": 439,
+      "total_negative": 407,
+      "total_reviews": 846
+    }
+  },
+  {
+    "appid": 2893570,
+    "title": "ドラゴンクエストI＆II HD-2D Remake",
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 6,
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 558,
+      "total_negative": 190,
+      "total_reviews": 748
+    }
+  },
+  {
+    "appid": 1113560,
+    "title": "NieR Replicant ver.1.22474487139...",
+    "summary": {
+      "num_reviews": 1,
+      "review_score": 6,
+      "review_score_desc": "Mostly Positive",
+      "total_positive": 339,
+      "total_negative": 87,
+      "total_reviews": 426
+    }
+  }
+]

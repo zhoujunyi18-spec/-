@@ -1,0 +1,64 @@
+{
+  "appid": 3375780,
+  "title": "空の軌跡 the 1st",
+  "cutoff_unix": 1793026799,
+  "cutoff_jst": "2026-10-26T23:59:59+09:00",
+  "n": 411,
+  "positive": 386,
+  "negative": 25,
+  "duplicates": 0,
+  "stop": "empty_page",
+  "api_summary": {
+    "num_reviews": 100,
+    "review_score": 8,
+    "review_score_desc": "Very Positive",
+    "total_positive": 386,
+    "total_negative": 25,
+    "total_reviews": 411
+  },
+  "api_total_matching": 411,
+  "pages": [
+    {
+      "page": 0,
+      "n": 100,
+      "sha256": "9e4188988acd7ddb8c2ff46fe9349714a377812479dc0d978aaeb752deeb1f6d",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+3375780%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22%2A%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:20:22.909403+00:00"
+    },
+    {
+      "page": 1,
+      "n": 100,
+      "sha256": "a1c7955c44713800e3c28c3355e2d58e9d884e8ab2c65de370dcce9bf4872402",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+3375780%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJwu9mnvJ0DdZfE0gY%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:20:24.171643+00:00"
+    },
+    {
+      "page": 2,
+      "n": 100,
+      "sha256": "2a3a8804b36e2fb389133ee2a20750e1b371732f59ed1b6a325d245b89d50f5b",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+3375780%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJw9OnRwZoDff6HngY%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:20:27.087642+00:00"
+    },
+    {
+      "page": 3,
+      "n": 100,
+      "sha256": "b3057e2f01e987a2e6195284f319c9327a5d9586ec321a7767bbf811e5d9dfca",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+3375780%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJ46ePOzZkDe6aOkAY%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:20:30.097647+00:00"
+    },
+    {
+      "page": 4,
+      "n": 11,
+      "sha256": "68ad90084b52be440a51128c01115f86e2a53ff8c7a91a4e196b262b46a68ed1",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+3375780%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJ4u%2FyDspkDcYr%2FjAY%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:20:31.151652+00:00"
+    },
+    {
+      "page": 5,
+      "n": 0,
+      "sha256": "7c3b29ab9a530693bdfa09362f164dd24fcdb32775f732bf3abe09f0f5e6dd4d",
+      "url": "https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A+3375780%2C+%22filter%22%3A+1%2C+%22languages%22%3A+%5B%22japanese%22%5D%2C+%22purchase_type%22%3A+1%2C+%22review_type%22%3A+0%2C+%22num_per_page%22%3A+100%2C+%22filter_offtopic_activity%22%3A+false%2C+%22cursor%22%3A+%22AoJ4yMS2sJkDeabkjAY%3D%22%2C+%22date_range_start%22%3A+1%2C+%22date_range_end%22%3A+1793026799%7D",
+      "at": "2026-10-27T06:20:32.133008+00:00"
+    }
+  ]
+}

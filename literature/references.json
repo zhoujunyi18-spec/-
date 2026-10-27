@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "J01",
+    "language": "ja",
+    "doi": null,
+    "citation": "丸谷和史・横坂拓巳・磯谷悠子・大谷智子 (2024). ゲームのリメイク作品に対する評価を決定づける体験要素. エンタテインメントコンピューティングシンポジウム2024論文集, 255–260.",
+    "url": "https://ipsj.ixsq.nii.ac.jp/records/238728",
+    "role_ja": "重制作品の体験要素と評価差",
+    "checked_ja": "本文1–2節・5.3–5.4節",
+    "limit_ja": "質問紙研究。レビュー中の比較出現率は検証していない。",
+    "access_date_jst": "2026-10-27",
+    "metadata_status": "publisher/source page verified"
+  },
+  {
+    "id": "J02",
+    "language": "ja",
+    "doi": "10.57518/digrajproc.15.0_155",
+    "citation": "丸谷和史・横坂拓巳・磯谷悠子・大谷智子 (2025). オリジナル作品との関係に基づくリメイク作品に対する評価の特徴の検討. 日本デジタルゲーム学会年次大会予稿集, 15, 155–160.",
+    "url": "https://doi.org/10.57518/digrajproc.15.0_155",
+    "role_ja": "作品単体と再構成の評価を区別",
+    "checked_ja": "本文1節・概要",
+    "limit_ja": "二つの評価軸を本研究の二種のテキストラベルと同一視しない。負評の比較頻度は導けない。",
+    "access_date_jst": "2026-10-27",
+    "metadata_status": "publisher page verified; Crossref retrieval failed: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "J03",
+    "language": "ja",
+    "doi": "10.9762/digraj.4.1_69",
+    "citation": "川島隆徳・村井源・徃住彰文 (2010). ゲーム批評から見たゲームの「面白さ」―レビューテキストの計量解析による叙述対象の自動抽出―. デジタルゲーム学研究, 4(1), 69–80.",
+    "url": "https://doi.org/10.9762/digraj.4.1_69",
+    "role_ja": "要素に着目する国内の蓄積",
+    "checked_ja": "出版社日本語ページ・抄録。PDF取得済みだが抽出テキストの文字化けあり",
+    "limit_ja": "雑誌批評が対象。Steamユーザーレビューと同一母集団ではない。本文全体の読解は未了。",
+    "access_date_jst": "2026-10-27",
+    "crossref": {
+      "title": [
+        "Estimating Evaluative Components of Games from Review Articles"
+      ],
+      "author": [
+        {
+          "given": "Takanori",
+          "family": "KAWASHIMA",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Value and Decision Science, Tokyo Institute of Technology"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Hajime",
+          "family": "MURAI",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Value and Decision Science, Tokyo Institute of Technology"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Akifumi",
+          "family": "TOKOSUMI",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Journal of Digital Games Research"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2010
+          ]
+        ]
+      },
+      "volume": "4",
+      "issue": "1",
+      "page": "69-80",
+      "type": "journal-article",
+      "DOI": "10.9762/digraj.4.1_69"
+    },
+    "metadata_status": "DOI metadata retrieved"
+  },
+  {
+    "id": "J04",
+    "language": "ja",
+    "doi": "10.57413/wii.20.0_136",
+    "citation": "池町和史・山西良典 (2024). レビュー文に対する係り受け解析を用いたビデオゲームにおけるプレイヤの着目点の分析. Webインテリジェンスとインタラクション研究会予稿集, 20, 136–142.",
+    "url": "https://doi.org/10.57413/wii.20.0_136",
+    "role_ja": "要素と評価対象の結び付け",
+    "checked_ja": "本文1–2節・概要",
+    "limit_ja": "係り受けによる着目点分析であり旧版比較関係の精度根拠にはならない。",
+    "access_date_jst": "2026-10-27",
+    "metadata_status": "publisher page verified; Crossref retrieval failed: HTTP Error 404: Not Found"
+  },
+  {
+    "id": "J05",
+    "language": "ja",
+    "doi": "10.57518/digrajproc.15.0_145",
+    "citation": "廣田雅春 (2025). Steamにおけるビデオゲームの日本語レビューのジャンルごとの感情分析. 日本デジタルゲーム学会年次大会予稿集, 15, 145–148.",
+    "url": "https://doi.org/10.57518/digrajproc.15.0_145",
+    "role_ja": "Steam日本語レビュー研究",
+    "checked_ja": "本文概要・導入",
+    "limit_ja": "ジャンルと感情の分析。要素別極性と原作比較の二重抽出とは異なる。",
+    "access_date_jst": "2026-10-27",
+    "metadata_status": "publisher page verified; Crossref retrieval failed: HTTP Error 404: Not Found"
+  },
+  {
+    "id": "J06",
+    "language": "ja",
+    "doi": "10.57518/digrajprocsummer.2025.0_9",
+    "citation": "廣田雅春・下田紀之 (2025). Steamにおけるビデオゲームの日本語レビューを用いたジャンルごとのレビュー観点に関する分析. 日本デジタルゲーム学会夏季研究発表大会予稿集, 2025, 9–14.",
+    "url": "https://doi.org/10.57518/digrajprocsummer.2025.0_9",
+    "role_ja": "最も近い国内のLLM要素抽出",
+    "checked_ja": "本文4.1節・5.3節",
+    "limit_ja": "5.3節で定量的精度・再現率の未評価を明記。本研究でも独立検証が必要で、LLM採用だけを新規性としない。",
+    "access_date_jst": "2026-10-27",
+    "metadata_status": "publisher page verified; Crossref retrieval failed: HTTP Error 404: Not Found"
+  },
+  {
+    "id": "E01",
+    "language": "en",
+    "doi": "10.1109/CoG60054.2024.10645618",
+    "citation": "Yokosaka, T., Miura, K., Isogaya, Y., Ohtani, T., & Maruya, K. (2024). Factors of player experience in describing the relationship between remade and original works. 2024 IEEE Conference on Games.",
+    "url": "https://doi.org/10.1109/CoG60054.2024.10645618",
+    "role_ja": "重制と原作の関係",
+    "checked_ja": "IEEEの公開抄録・会議目次",
+    "limit_ja": "本文取得未了。質問紙尺度の再利用は本文・尺度項目を確認後。",
+    "access_date_jst": "2026-10-27",
+    "metadata_status": "publisher page verified; Crossref retrieval failed: HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "E02",
+    "language": "en",
+    "doi": "10.1177/15554120231163655",
+    "citation": "Brown, L. (2024). Rethinking Remakes: Value and Culture in Video Game Temporalization. Games and Culture, 19(3), 337–356.",
+    "url": "https://doi.org/10.1177/15554120231163655",
+    "role_ja": "重制・再発の文化的位置",
+    "checked_ja": "出版社公開抄録",
+    "limit_ja": "本文取得未了。temporalizationの詳細な類型は二次要約から引用しない。",
+    "access_date_jst": "2026-10-27",
+    "crossref": {
+      "title": [
+        "Rethinking Remakes: Value and Culture in Video Game Temporalization"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-7039-3546",
+          "authenticated-orcid": false,
+          "given": "Logan",
+          "family": "Brown",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Media and Informatics, Indiana University, Bloomington, IN, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Games and Culture"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            3,
+            16
+          ]
+        ]
+      },
+      "volume": "19",
+      "issue": "3",
+      "page": "337-356",
+      "type": "journal-article",
+      "DOI": "10.1177/15554120231163655"
+    },
+    "metadata_status": "DOI metadata retrieved"
+  },
+  {
+    "id": "E03",
+    "language": "en",
+    "doi": "10.5210/spir.v2020i0.11286",
+    "citation": "Neill Hoch, I. (2020). Nostalgia for the New: Video Game “Remakes” and the Limits of Reflection. AoIR Selected Papers of Internet Research.",
+    "url": "https://doi.org/10.5210/spir.v2020i0.11286",
+    "role_ja": "懐旧枠組みと本研究の境界",
+    "checked_ja": "公開本文pp.1–3",
+    "limit_ja": "予告編YouTubeコメントの短論文。レビューの明示比較から心理的懐旧を推定しない。",
+    "access_date_jst": "2026-10-27",
+    "crossref": {
+      "title": [
+        "NOSTALGIA FOR THE NEW: VIDEO GAME \"REMAKES\" AND THE LIMITS OF\t\t\tREFLECTION"
+      ],
+      "author": [
+        {
+          "given": "Indira",
+          "family": "Neill Hoch",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "AoIR Selected Papers of Internet Research"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            5
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "type": "journal-article",
+      "DOI": "10.5210/spir.v2020i0.11286"
+    },
+    "metadata_status": "DOI metadata retrieved"
+  },
+  {
+    "id": "E04",
+    "language": "en",
+    "doi": "10.1007/s10664-018-9627-4",
+    "citation": "Lin, D., Bezemer, C.-P., Zou, Y., & Hassan, A. E. (2019). An empirical study of game reviews on the Steam platform. Empirical Software Engineering, 24, 170–207.",
+    "url": "https://doi.org/10.1007/s10664-018-9627-4",
+    "role_ja": "Steamレビューのデータ特性",
+    "checked_ja": "著者公開稿・抄録・方法・考察",
+    "limit_ja": "推薦・非推薦双方の情報を扱う根拠。旧版比較が非推薦に多いという証拠ではない。",
+    "access_date_jst": "2026-10-27",
+    "crossref": {
+      "title": [
+        "An empirical study of game reviews on the Steam platform"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4034-6650",
+          "authenticated-orcid": false,
+          "given": "Dayi",
+          "family": "Lin",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Cor-Paul",
+          "family": "Bezemer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ying",
+          "family": "Zou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ahmed E.",
+          "family": "Hassan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Empirical Software Engineering"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            15
+          ]
+        ]
+      },
+      "volume": "24",
+      "issue": "1",
+      "page": "170-207",
+      "type": "journal-article",
+      "DOI": "10.1007/s10664-018-9627-4"
+    },
+    "metadata_status": "DOI metadata retrieved"
+  },
+  {
+    "id": "E05",
+    "language": "en",
+    "doi": null,
+    "citation": "Hunicke, R., LeBlanc, M., & Zubek, R. (2004). MDA: A Formal Approach to Game Design and Game Research. AAAI Workshop on Challenges in Game AI.",
+    "url": "https://aaai.org/papers/ws04-04-001-mda-a-formal-approach-to-game-design-and-game-research/",
+    "role_ja": "ゲーム設計概念と分類の区別",
+    "checked_ja": "AAAI本文pp.1–2",
+    "limit_ja": "Mechanics/Dynamics/Aestheticsを本研究の5分類の原典とはしない。",
+    "access_date_jst": "2026-10-27",
+    "metadata_status": "publisher/source page verified"
+  },
+  {
+    "id": "E06",
+    "language": "en",
+    "doi": "10.3115/v1/S14-2004",
+    "citation": "Pontiki, M., et al. (2014). SemEval-2014 Task 4: Aspect Based Sentiment Analysis. SemEval 2014, 27–35.",
+    "url": "https://doi.org/10.3115/v1/S14-2004",
+    "role_ja": "対象・観点・極性の分離",
+    "checked_ja": "本文タスク定義",
+    "limit_ja": "飲食店・ノートPCの枠組み。日本語ゲームへの性能を保証しない。",
+    "access_date_jst": "2026-10-27",
+    "crossref": {
+      "title": [
+        "SemEval-2014 Task 4: Aspect Based Sentiment Analysis"
+      ],
+      "author": [
+        {
+          "given": "Maria",
+          "family": "Pontiki",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dimitris",
+          "family": "Galanis",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "John",
+          "family": "Pavlopoulos",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Harris",
+          "family": "Papageorgiou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ion",
+          "family": "Androutsopoulos",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Suresh",
+          "family": "Manandhar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 8th International Workshop on Semantic Evaluation (SemEval 2014)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2014
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "27-35",
+      "type": "proceedings-article",
+      "DOI": "10.3115/v1/s14-2004"
+    },
+    "metadata_status": "DOI metadata retrieved"
+  },
+  {
+    "id": "E07",
+    "language": "en",
+    "doi": "10.18653/v1/S16-1002",
+    "citation": "Pontiki, M., et al. (2016). SemEval-2016 Task 5: Aspect Based Sentiment Analysis. SemEval 2016, 19–30.",
+    "url": "https://doi.org/10.18653/v1/S16-1002",
+    "role_ja": "観点レベル分析の拡張",
+    "checked_ja": "ACL書誌・本文タスク定義",
+    "limit_ja": "多言語ABSAの設計参照。旧版比較・実装維持の専用コードが別途必要。",
+    "access_date_jst": "2026-10-27",
+    "crossref": {
+      "title": [
+        "SemEval-2016 Task 5: Aspect Based Sentiment Analysis"
+      ],
+      "author": [
+        {
+          "given": "Maria",
+          "family": "Pontiki",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dimitris",
+          "family": "Galanis",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Haris",
+          "family": "Papageorgiou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ion",
+          "family": "Androutsopoulos",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Suresh",
+          "family": "Manandhar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mohammad",
+          "family": "AL-Smadi",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mahmoud",
+          "family": "Al-Ayyoub",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yanyan",
+          "family": "Zhao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bing",
+          "family": "Qin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Orphee",
+          "family": "De Clercq",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Veronique",
+          "family": "Hoste",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marianna",
+          "family": "Apidianaki",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xavier",
+          "family": "Tannier",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Natalia",
+          "family": "Loukachevitch",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Evgeniy",
+          "family": "Kotelnikov",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Núria",
+          "family": "Bel",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Salud María",
+          "family": "Jiménez-Zafra",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gülşen",
+          "family": "Eryiğit",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 10th International Workshop on Semantic Evaluation (SemEval-2016)"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "19-30",
+      "type": "proceedings-article",
+      "DOI": "10.18653/v1/s16-1002"
+    },
+    "metadata_status": "DOI metadata retrieved"
+  },
+  {
+    "id": "E08",
+    "language": "en",
+    "doi": "10.1145/1148170.1148215",
+    "citation": "Jindal, N., & Liu, B. (2006). Identifying comparative sentences in text documents. SIGIR 2006, 244–251.",
+    "url": "https://doi.org/10.1145/1148170.1148215",
+    "role_ja": "比較文の検出",
+    "checked_ja": "著者公開稿・導入",
+    "limit_ja": "検出と方向判定を分ける。英語の比較語リストを日本語へそのまま適用しない。",
+    "access_date_jst": "2026-10-27",
+    "crossref": {
+      "title": [
+        "Identifying comparative sentences in text documents"
+      ],
+      "author": [
+        {
+          "given": "Nitin",
+          "family": "Jindal",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Illinois at Chicago, Chicago, IL"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bing",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Illinois at Chicago, Chicago, IL"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 29th annual international ACM SIGIR conference on Research and development in information retrieval"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            8,
+            6
+          ]
+        ]
+      },
+      "volume": null,
+      "issue": null,
+      "page": "244-251",
+      "type": "proceedings-article",
+      "DOI": "10.1145/1148170.1148215"
+    },
+    "metadata_status": "DOI metadata retrieved"
+  },
+  {
+    "id": "E09",
+    "language": "en",
+    "doi": null,
+    "citation": "Jindal, N., & Liu, B. (2006). Mining Comparative Sentences and Relations. AAAI 2006, 1331–1336.",
+    "url": "https://cdn.aaai.org/AAAI/2006/AAAI06-209.pdf",
+    "role_ja": "比較対象・特徴・関係のタプル",
+    "checked_ja": "AAAI本文p.1331・関係定義",
+    "limit_ja": "客観的比較も存在するため、比較の存在を肯定・否定と同一視しない。E08とは別論文だが同系統。",
+    "access_date_jst": "2026-10-27",
+    "metadata_status": "publisher/source page verified"
+  },
+  {
+    "id": "E10",
+    "language": "en",
+    "doi": "10.1073/pnas.2305016120",
+    "citation": "Gilardi, F., Alizadeh, M., & Kubli, M. (2023). ChatGPT outperforms crowd workers for text-annotation tasks. PNAS, 120(30), e2305016120.",
+    "url": "https://doi.org/10.1073/pnas.2305016120",
+    "role_ja": "LLMによる注釈の可能性",
+    "checked_ja": "PNAS公開抄録・著者プレプリント",
+    "limit_ja": "最終版と初期arXivで標本数が違う。日本語の複合比較タスクへ外挿しない。",
+    "access_date_jst": "2026-10-27",
+    "crossref": {
+      "title": [
+        "ChatGPT outperforms crowd workers for text-annotation tasks"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-0635-3048",
+          "authenticated-orcid": false,
+          "given": "Fabrizio",
+          "family": "Gilardi",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Political Science, University of Zurich, Zurich 8050, Switzerland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6696-6471",
+          "authenticated-orcid": false,
+          "given": "Meysam",
+          "family": "Alizadeh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Political Science, University of Zurich, Zurich 8050, Switzerland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5592-9648",
+          "authenticated-orcid": false,
+          "given": "Maël",
+          "family": "Kubli",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Political Science, University of Zurich, Zurich 8050, Switzerland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the National Academy of Sciences"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            7,
+            18
+          ]
+        ]
+      },
+      "volume": "120",
+      "issue": "30",
+      "page": null,
+      "type": "journal-article",
+      "DOI": "10.1073/pnas.2305016120"
+    },
+    "metadata_status": "DOI metadata retrieved"
+  },
+  {
+    "id": "E11",
+    "language": "en",
+    "doi": "10.6092/issn.1971-8853/19461",
+    "citation": "Törnberg, P. (2024). Best Practices for Text Annotation with Large Language Models. Sociologica, 18(2), 67–85.",
+    "url": "https://doi.org/10.6092/issn.1971-8853/19461",
+    "role_ja": "固定仕様・独立検証・安定性",
+    "checked_ja": "出版本文6節・9節",
+    "limit_ja": "プロンプト確定後の検証が必要。本先導データは精度評価に流用しない。",
+    "access_date_jst": "2026-10-27",
+    "metadata_status": "publisher page verified; Crossref retrieval failed: HTTP Error 404: Not Found"
+  },
+  {
+    "id": "E12",
+    "language": "en",
+    "doi": "10.1177/1609406919899220",
+    "citation": "O’Connor, C., & Joffe, H. (2020). Intercoder Reliability in Qualitative Research: Debates and Practical Guidelines. International Journal of Qualitative Methods, 19.",
+    "url": "https://doi.org/10.1177/1609406919899220",
+    "role_ja": "人手コード化の透明性",
+    "checked_ja": "出版社抄録・導入",
+    "limit_ja": "一致率だけで解釈妥当性を保証しない。相違の協議過程も報告する。",
+    "access_date_jst": "2026-10-27",
+    "crossref": {
+      "title": [
+        "Intercoder Reliability in Qualitative Research: Debates and Practical Guidelines"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-8134-075X",
+          "authenticated-orcid": false,
+          "given": "Cliodhna",
+          "family": "O’Connor",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Psychology, University College Dublin, Belfield, Dublin, Ireland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Helene",
+          "family": "Joffe",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Division of Psychology and Language Sciences, University College London, London, United Kingdom"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "International Journal of Qualitative Methods"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            1
+          ]
+        ]
+      },
+      "volume": "19",
+      "issue": null,
+      "page": null,
+      "type": "journal-article",
+      "DOI": "10.1177/1609406919899220"
+    },
+    "metadata_status": "DOI metadata retrieved"
+  },
+  {
+    "id": "E13",
+    "language": "en",
+    "doi": "10.1093/pan/mps028",
+    "citation": "Grimmer, J., & Stewart, B. M. (2013). Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts. Political Analysis, 21(3), 267–297.",
+    "url": "https://doi.org/10.1093/pan/mps028",
+    "role_ja": "自動テキスト測定の妥当性",
+    "checked_ja": "公開本文概要・導入",
+    "limit_ja": "文脈固有の検証が必要。自動化自体は内容上の貢献を保証しない。",
+    "access_date_jst": "2026-10-27",
+    "crossref": {
+      "title": [
+        "Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts"
+      ],
+      "author": [
+        {
+          "given": "Justin",
+          "family": "Grimmer",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Brandon M.",
+          "family": "Stewart",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Political Analysis"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2013
+          ]
+        ]
+      },
+      "volume": "21",
+      "issue": "3",
+      "page": "267-297",
+      "type": "journal-article",
+      "DOI": "10.1093/pan/mps028"
+    },
+    "metadata_status": "DOI metadata retrieved"
+  },
+  {
+    "id": "E14",
+    "language": "en",
+    "doi": "10.1080/0267257X.2025.2520859",
+    "citation": "Butcher, L., & Toh, A. (2025). Strolling down memory card lane: nostalgia, age, and video game remakes. Journal of Marketing Management, 41(9–10), 892–909.",
+    "url": "https://doi.org/10.1080/0267257X.2025.2520859",
+    "role_ja": "懐旧・購買意図との境界",
+    "checked_ja": "出版社公開抄録・導入",
+    "limit_ja": "質問紙研究。本文の明示比較は懐旧尺度や購買意図を代替しない。",
+    "access_date_jst": "2026-10-27",
+    "crossref": {
+      "title": [
+        "Strolling down memory card lane: nostalgia, age, and video game remakes"
+      ],
+      "author": [
+        {
+          "given": "Luke",
+          "family": "Butcher",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Curtin University",
+              "place": [
+                "Perth, Australia"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Adrian",
+          "family": "Toh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Curtin University",
+              "place": [
+                "Perth, Australia"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Journal of Marketing Management"
+      ],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            13
+          ]
+        ]
+      },
+      "volume": "41",
+      "issue": "9-10",
+      "page": "892-909",
+      "type": "journal-article",
+      "DOI": "10.1080/0267257x.2025.2520859"
+    },
+    "metadata_status": "DOI metadata retrieved"
+  }
+]

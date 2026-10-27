@@ -1,0 +1,7 @@
+{
+  "python_for_collection": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+  "annotation": "Codex conversational AI; exact snapshot and temperature unavailable",
+  "plot_matplotlib": "3.11.2",
+  "fulltext_extractor": "pypdf; bundled runtime",
+  "human_validation": "not_performed"
+}

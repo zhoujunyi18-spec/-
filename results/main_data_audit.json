@@ -1,0 +1,50 @@
+[
+  {
+    "appid": 2161700,
+    "n": 1078,
+    "positive": 990,
+    "negative": 88,
+    "ascii_latin_without_japanese": 65,
+    "n_after_ascii_screen": 1013,
+    "median_characters": 51.0,
+    "pilot_n": 30,
+    "pilot_any_evaluation": 15,
+    "pilot_any_comparison": 3
+  },
+  {
+    "appid": 2455640,
+    "n": 1668,
+    "positive": 1608,
+    "negative": 60,
+    "ascii_latin_without_japanese": 19,
+    "n_after_ascii_screen": 1649,
+    "median_characters": 135.0,
+    "pilot_n": 30,
+    "pilot_any_evaluation": 20,
+    "pilot_any_comparison": 7
+  },
+  {
+    "appid": 2701660,
+    "n": 1635,
+    "positive": 888,
+    "negative": 747,
+    "ascii_latin_without_japanese": 33,
+    "n_after_ascii_screen": 1602,
+    "median_characters": 190,
+    "pilot_n": 30,
+    "pilot_any_evaluation": 18,
+    "pilot_any_comparison": 10
+  },
+  {
+    "appid": 3375780,
+    "n": 411,
+    "positive": 386,
+    "negative": 25,
+    "ascii_latin_without_japanese": 11,
+    "n_after_ascii_screen": 400,
+    "median_characters": 152,
+    "pilot_n": 30,
+    "pilot_any_evaluation": 21,
+    "pilot_any_comparison": 2
+  }
+]

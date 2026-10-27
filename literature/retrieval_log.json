@@ -1,0 +1,144 @@
+[
+  {
+    "id": "J01",
+    "url": "https://ipsj.ixsq.nii.ac.jp/record/238728/files/IPSJ-EC2024039.pdf",
+    "retrieved_utc": "2026-10-27T06:13:04.142842+00:00",
+    "status": "downloaded",
+    "pages": 6,
+    "sha256": "d13badc42b3139fe0b74b9c5f31b365fa041462c5569fb063ad00f5ee9c241bc"
+  },
+  {
+    "id": "J02",
+    "url": "https://www.jstage.jst.go.jp/article/digrajproc/15/0/15_155/_pdf/-char/ja",
+    "retrieved_utc": "2026-10-27T06:13:04.319847+00:00",
+    "status": "downloaded",
+    "pages": 6,
+    "sha256": "a1e0b6e0d84e764159f13c02f7266b1d6f2d782ac3b82fc3502c3dba747d4bc0"
+  },
+  {
+    "id": "J03",
+    "url": "https://www.jstage.jst.go.jp/article/digraj/4/1/4_69/_pdf",
+    "retrieved_utc": "2026-10-27T06:13:04.802651+00:00",
+    "status": "downloaded",
+    "pages": 12,
+    "sha256": "8dc88e28143763ca6442b44ae970e88da11600963aca4ddddb8057a345d86996"
+  },
+  {
+    "id": "J04",
+    "url": "https://www.jstage.jst.go.jp/article/wii/20/0/20_136/_pdf/-char/ja",
+    "retrieved_utc": "2026-10-27T06:13:04.948986+00:00",
+    "status": "downloaded",
+    "pages": 7,
+    "sha256": "589d8d9b97c23725383a7db12e6d3db7b207ee871bc5cd8df054a30ce5135b32"
+  },
+  {
+    "id": "J05",
+    "url": "https://www.jstage.jst.go.jp/article/digrajproc/15/0/15_145/_pdf/-char/ja",
+    "retrieved_utc": "2026-10-27T06:13:05.117912+00:00",
+    "status": "downloaded",
+    "pages": 4,
+    "sha256": "efc3b319459e4aa3832a469e095e264446e514770d5a32502f226423f95c4358"
+  },
+  {
+    "id": "J06",
+    "url": "https://www.jstage.jst.go.jp/article/digrajprocsummer/2025/0/2025_9/_pdf/-char/ja",
+    "retrieved_utc": "2026-10-27T06:13:05.344334+00:00",
+    "status": "downloaded",
+    "pages": 6,
+    "sha256": "b58e91075946a522091dd6b5e8bed25cbd4423ca1b5f0a7b5fd7dc42e99107b1"
+  },
+  {
+    "id": "E03",
+    "url": "https://spir.aoir.org/ojs/index.php/spir/article/download/11286/9958/72213",
+    "retrieved_utc": "2026-10-27T06:13:05.591487+00:00",
+    "status": "downloaded",
+    "pages": 4,
+    "sha256": "d0a4311928412660372f894e504162b722bc45d199ee319aedbb044535c3c782"
+  },
+  {
+    "id": "E04",
+    "url": "https://sail.cs.queensu.ca/data/pdfs/EMSE2018_AnEmpiricalStudyOfGameReviewsOnTheSteamPlatform.pdf",
+    "retrieved_utc": "2026-10-27T06:13:06.596212+00:00",
+    "status": "downloaded",
+    "pages": 38,
+    "sha256": "c4067b1b57de968e6f4e5c5e605cd5f074ed8e9ee3f9e6492b98b3f991fa50a6"
+  },
+  {
+    "id": "E05",
+    "url": "https://cdn.aaai.org/Workshops/2004/WS-04-04/WS04-04-001.pdf",
+    "retrieved_utc": "2026-10-27T06:13:09.041130+00:00",
+    "status": "downloaded",
+    "pages": 5,
+    "sha256": "f024c53fde7d44d340fc34a29edb96c1524d806dd56d74449f9e33ae28251773"
+  },
+  {
+    "id": "E06",
+    "url": "https://aclanthology.org/S14-2004.pdf",
+    "retrieved_utc": "2026-10-27T06:13:09.148661+00:00",
+    "status": "downloaded",
+    "pages": 9,
+    "sha256": "f2c18570379d66a6f2200ac6cf3213934f79234a28a726c80a82700e4b92e592"
+  },
+  {
+    "id": "E07",
+    "url": "https://aclanthology.org/S16-1002.pdf",
+    "retrieved_utc": "2026-10-27T06:13:09.328783+00:00",
+    "status": "downloaded",
+    "pages": 12,
+    "sha256": "6bd50ad93b39bbbafe70d2ce4b0690de5018c3926d68c422aea7fcff5ef30dd2"
+  },
+  {
+    "id": "E08",
+    "url": "https://www.cs.uic.edu/~liub/publications/sigir06-comp.pdf",
+    "retrieved_utc": "2026-10-27T06:13:09.545377+00:00",
+    "status": "downloaded",
+    "pages": 8,
+    "sha256": "c0eefdee512b97d9defa61fab69a0d755bfc00a4303436fd942fde318a4669c9"
+  },
+  {
+    "id": "E09",
+    "url": "https://cdn.aaai.org/AAAI/2006/AAAI06-209.pdf",
+    "retrieved_utc": "2026-10-27T06:13:09.696081+00:00",
+    "status": "downloaded",
+    "pages": 6,
+    "sha256": "fc918afb3f4f3ce420bcaab4e2f18b179eb3167f2dd22ce99e7983498b5f52bb"
+  },
+  {
+    "id": "E10",
+    "url": "https://arxiv.org/pdf/2303.15056",
+    "retrieved_utc": "2026-10-27T06:13:09.829071+00:00",
+    "status": "downloaded",
+    "pages": 13,
+    "sha256": "da6865c3e57e8a956f2aeeadef0c814b2ab4a2db4753ef50037a4074b6e3d26f"
+  },
+  {
+    "id": "E11",
+    "url": "https://arxiv.org/pdf/2402.05129",
+    "retrieved_utc": "2026-10-27T06:13:10.085294+00:00",
+    "status": "downloaded",
+    "pages": 21,
+    "sha256": "484266f38c7073cd5bff87d6bb59b5847849280fd2051d56544d599ff63962e1"
+  },
+  {
+    "id": "E12",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/1609406919899220",
+    "retrieved_utc": "2026-10-27T06:13:10.581867+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "E13",
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F7AAC8B2909441603FEB25C156448F20/S1047198700013401a.pdf/text-as-data-the-promise-and-pitfalls-of-automatic-content-analysis-methods-for-political-texts.pdf",
+    "retrieved_utc": "2026-10-27T06:13:12.271246+00:00",
+    "status": "downloaded",
+    "pages": 31,
+    "sha256": "24018dd0ad1dd6fa11d6ee2fb501222dc34cde53a8fa02f9cd37f53fb3d724e0"
+  },
+  {
+    "id": "E14",
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/0267257X.2025.2520859",
+    "retrieved_utc": "2026-10-27T06:13:13.353957+00:00",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]
